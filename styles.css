@@ -1,0 +1,75 @@
+img{
+    text-align:center;  
+    height:300px;
+
+}
+html{ 
+    text-align: center;
+    background-color:darkmagenta;
+    border-style: solid; 
+    border-width: 20px;
+    border-color: white;
+    border-left:solid #4B0082 100px;
+    border-top: solid blueviolet 100px;
+    border-right:solid #4B0082 100px;
+    border-bottom:solid blueviolet 100px;
+}
+
+h1{
+     box-shadow: 5px 10px blueviolet;
+     border:5px solid #4B0082 ;
+    font-family: 'Josefin Sans', sans-serif;
+    max-width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.cat{ 
+    font-family: 'Alegreya', serif;
+}
+
+.kaneda{
+    color:magenta;
+    font-family: 'Press Start 2P', cursive;
+}
+.omewa{
+    color:white;
+    font-family: 'Karla', sans-serif;
+}
+
+.kiryu{ 
+    color:#022954;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.tetsuo{
+    color:orange;
+    font-family: 'Shadows Into Light', cursive;
+}
+.kuze{
+    color:#4B0082;
+    font-family: 'Quicksand', sans-serif;
+}
+.gus{
+    color:pink;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.jeff{
+    color:white;
+    font-family: 'Abel', sans-serif;
+}
+
+.jesse{
+    color:orange;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.adam{
+    font-family: 'Amatic SC', cursive;
+}
+
+.joji{
+    color:navy;
+font-family: 'Source Code Pro', monospace;
+}
